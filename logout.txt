@@ -1,1 +1,2 @@
 "logout page related code"
+logout is modified
